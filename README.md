@@ -1,7 +1,4 @@
-# build a cashcow machine automated_youtube_channel
-
-
-best helper for creator who have not claim youtube 
+# best helper for creator who have not claim youtube 
 
 ## sync or backup other platform to youtube 
 
@@ -28,11 +25,15 @@ https://github.com/HoloArchivists/fc2-live-dl
 https://github.com/dvingerh/PyInstaLive
 
 
-## creating video for youtube 
+
+# build a cashcow machine automated_youtube_channel
+
+## creating video  from song
 
 music video to youtube 
 
 
+## creating video from text
 reddit to youtube
 
 
