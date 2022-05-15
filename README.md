@@ -15,6 +15,7 @@ ins to youtube
 
 twith to youtube 
 
+-live 
 -live record    
 -hightlight    
 
@@ -52,6 +53,7 @@ reference
 
 https://github.com/biliup/biliup/
 
+https://github.com/liugangmin/real-url
 
 https://github.com/streamlink/streamlink
 
