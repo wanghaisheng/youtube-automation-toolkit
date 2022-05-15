@@ -35,6 +35,8 @@ music video to youtube
 
 reference 
 
+https://github.com/intrlocutr/nightcoreify
+
 https://github.com/nathan-149/automated_youtube_channel
 
 
