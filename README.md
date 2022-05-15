@@ -4,6 +4,8 @@
 
 ## sync or backup other platform to youtube 
 
+bilibili to youtube 
+
 
 tiktok to youtube 
 
@@ -18,6 +20,9 @@ twith to youtube
 
 reddit to youtube
 
+## replay or livestreaming recording to youtube
+
+https://github.com/dvingerh/PyInstaLive
 
 
 ## creating video for youtube 
