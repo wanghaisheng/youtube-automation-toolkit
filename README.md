@@ -1,6 +1,10 @@
 # build a cashcow machine automated_youtube_channel
 
 
+
+## sync or backup other platform to youtube 
+
+
 tiktok to youtube 
 
 ins to youtube
@@ -14,6 +18,9 @@ twith to youtube
 
 reddit to youtube
 
+
+
+## creating video for youtube 
 
 music video to youtube 
 
