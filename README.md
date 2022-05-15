@@ -50,6 +50,10 @@ reddit to youtube
 
 reference 
 
+https://github.com/streamlink/streamlink
+
+https://github.com/nICEnnnnnnnLee/LiveRecorder
+
 https://github.com/intrlocutr/nightcoreify
 
 https://github.com/nathan-149/automated_youtube_channel
