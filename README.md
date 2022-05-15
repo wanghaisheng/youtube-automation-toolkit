@@ -53,7 +53,7 @@ reference
 
 https://github.com/biliup/biliup/
 
-https://github.com/liugangmin/real-url
+https://github.com/wbt5/real-url
 
 https://github.com/streamlink/streamlink
 
