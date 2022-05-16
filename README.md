@@ -32,6 +32,8 @@ https://github.com/dvingerh/PyInstaLive
 
 music video to youtube 
 
+https://github.com/coffeenmusic/MusicVideoMaker
+
 
 ## creating video from text
 reddit to youtube
