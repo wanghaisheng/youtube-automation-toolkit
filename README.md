@@ -1,5 +1,15 @@
 # best helper for creator who have not claim youtube 
 
+
+* Background 
+
+there are many content theft active in popular social media platforms like tiktok,youtube,douyin etc.
+the secret weapon behind them is the toolkit which can repost orginal video with  modification of title,description as soon as possible they find valuable content.
+so they got millions of traffics, let alone money.
+
+what we propose here is exact the **out of box** toolkit creator can use to defeat these theft behaviours
+
+
 ## sync or backup other platform to youtube 
 
 bilibili to youtube 
