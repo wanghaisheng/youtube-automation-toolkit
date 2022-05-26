@@ -11,7 +11,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Landio - Landing page</h2>
+  <h2 align="center">Youtube Automation Toolkit - Next Generation online business</h2>
 
   Landio is a fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
